@@ -1,0 +1,7233 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "Adıyaman Mülki İdare Noktaları",
+    "description": "Adıyaman ilindeki ilçe ve mahalle/köy merkezlerinin WGS84 koordinatları",
+    "source": "Adıyaman Mülkî İdare İl Haritası - Harita Genel Müdürlüğü",
+    "datum": "WGS 1984",
+    "projection": "Lambert Konformal Konik (linear approximation)",
+    "coordinate_accuracy": "±500m (approximate, derived from map grid interpolation)",
+    "total_points": 481,
+    "ilce_count": 9,
+    "mahalle_count": 472,
+    "date_created": "2026",
+    "notes": "Koordinatlar harita üzerindeki grid etiketlerinden lineer interpolasyon ile çıkarılmıştır. Aynı isimli birden fazla nokta varsa en yakın eşleşme korunmuştur. İl sınırları yaklaşık poligon ile belirlenmiştir."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8641,
+          37.700287
+        ]
+      },
+      "properties": {
+        "name": "Aşağısarhan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.623971,
+          37.781412
+        ]
+      },
+      "properties": {
+        "name": "Kâhta",
+        "type": "ilce_merkezi",
+        "type_tr": "İlçe Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.643285,
+          37.783524
+        ]
+      },
+      "properties": {
+        "name": "GÖLBAŞI",
+        "type": "ilce_merkezi",
+        "type_tr": "İlçe Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.91592,
+          37.79411
+        ]
+      },
+      "properties": {
+        "name": "Tut",
+        "type": "ilce_merkezi",
+        "type_tr": "İlçe Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.029365,
+          38.024588
+        ]
+      },
+      "properties": {
+        "name": "Gerger",
+        "type": "ilce_merkezi",
+        "type_tr": "İlçe Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.619495,
+          38.023512
+        ]
+      },
+      "properties": {
+        "name": "SİNCİK",
+        "type": "ilce_merkezi",
+        "type_tr": "İlçe Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.238965,
+          38.02857
+        ]
+      },
+      "properties": {
+        "name": "ÇELİKHAN",
+        "type": "ilce_merkezi",
+        "type_tr": "İlçe Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.883598,
+          38.089072
+        ]
+      },
+      "properties": {
+        "name": "DOĞANŞEHİR",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.869242,
+          38.192816
+        ]
+      },
+      "properties": {
+        "name": "PÜTÜRGE",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.481382,
+          37.575667
+        ]
+      },
+      "properties": {
+        "name": "Samsat",
+        "type": "ilce_merkezi",
+        "type_tr": "İlçe Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.687331,
+          37.431303
+        ]
+      },
+      "properties": {
+        "name": "ARABAN",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.151619,
+          37.485792
+        ]
+      },
+      "properties": {
+        "name": "Sayören",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.595289,
+          37.489028
+        ]
+      },
+      "properties": {
+        "name": "Karalar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.382965,
+          37.499242
+        ]
+      },
+      "properties": {
+        "name": "Kızılöz",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.255326,
+          37.660391
+        ]
+      },
+      "properties": {
+        "name": "Hacıhalil",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.223811,
+          37.503516
+        ]
+      },
+      "properties": {
+        "name": "Kuyulu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.493597,
+          37.613319
+        ]
+      },
+      "properties": {
+        "name": "Yeniköy",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.294768,
+          37.505207
+        ]
+      },
+      "properties": {
+        "name": "Akyazı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.193491,
+          37.515917
+        ]
+      },
+      "properties": {
+        "name": "Menzil",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.99332,
+          37.522773
+        ]
+      },
+      "properties": {
+        "name": "Çomak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.259477,
+          37.53039
+        ]
+      },
+      "properties": {
+        "name": "Bebek",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.596197,
+          37.534067
+        ]
+      },
+      "properties": {
+        "name": "Çorak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.464654,
+          37.53268
+        ]
+      },
+      "properties": {
+        "name": "Kırmacık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.176552,
+          37.973934
+        ]
+      },
+      "properties": {
+        "name": "Sarıkaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.959229,
+          37.539344
+        ]
+      },
+      "properties": {
+        "name": "Yazıbeydili",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.385339,
+          37.541759
+        ]
+      },
+      "properties": {
+        "name": "Bayırlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.076022,
+          37.544794
+        ]
+      },
+      "properties": {
+        "name": "Beşyol",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.477185,
+          37.556328
+        ]
+      },
+      "properties": {
+        "name": "Yarımbağ",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.025954,
+          37.557874
+        ]
+      },
+      "properties": {
+        "name": "Yazıkarakuyu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.736945,
+          37.756606
+        ]
+      },
+      "properties": {
+        "name": "Akpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.428888,
+          37.572374
+        ]
+      },
+      "properties": {
+        "name": "Gülpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.338462,
+          37.572805
+        ]
+      },
+      "properties": {
+        "name": "Çobandede",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.135737,
+          37.573047
+        ]
+      },
+      "properties": {
+        "name": "Ilıcak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.477485,
+          37.579049
+        ]
+      },
+      "properties": {
+        "name": "Haydarlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.533086,
+          37.575152
+        ]
+      },
+      "properties": {
+        "name": "Kovanoluk",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.049822,
+          37.576339
+        ]
+      },
+      "properties": {
+        "name": "Kesecik",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.738,
+          37.588209
+        ]
+      },
+      "properties": {
+        "name": "Sarıyaprak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.318674,
+          37.588405
+        ]
+      },
+      "properties": {
+        "name": "Bağpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.978552,
+          37.590605
+        ]
+      },
+      "properties": {
+        "name": "Kutluca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.935365,
+          37.597436
+        ]
+      },
+      "properties": {
+        "name": "Konuklu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.485829,
+          37.599147
+        ]
+      },
+      "properties": {
+        "name": "Uzuntepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.440834,
+          37.605365
+        ]
+      },
+      "properties": {
+        "name": "Göltarla",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.760263,
+          37.608806
+        ]
+      },
+      "properties": {
+        "name": "Karagüveç",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.639703,
+          37.622708
+        ]
+      },
+      "properties": {
+        "name": "Aşağı Nasırlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.477859,
+          37.619963
+        ]
+      },
+      "properties": {
+        "name": "Akdamar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.708929,
+          37.625416
+        ]
+      },
+      "properties": {
+        "name": "Uzunkuyu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.048288,
+          37.623999
+        ]
+      },
+      "properties": {
+        "name": "Tekağaç",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.295777,
+          37.623156
+        ]
+      },
+      "properties": {
+        "name": "Bozhüyük",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.16994,
+          37.625502
+        ]
+      },
+      "properties": {
+        "name": "Elmacık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.61264,
+          37.625228
+        ]
+      },
+      "properties": {
+        "name": "Çakıreşme",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.121095,
+          37.625853
+        ]
+      },
+      "properties": {
+        "name": "Külafhüyük",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.845003,
+          37.630785
+        ]
+      },
+      "properties": {
+        "name": "Oyratlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.324051,
+          37.634511
+        ]
+      },
+      "properties": {
+        "name": "Yazlık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.967668,
+          37.638376
+        ]
+      },
+      "properties": {
+        "name": "Üçgöz",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.393212,
+          37.64092
+        ]
+      },
+      "properties": {
+        "name": "Aydınlar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.764974,
+          37.643807
+        ]
+      },
+      "properties": {
+        "name": "Kurugöl",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.498292,
+          37.646053
+        ]
+      },
+      "properties": {
+        "name": "Çatalağaç",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.488733,
+          37.644656
+        ]
+      },
+      "properties": {
+        "name": "Ovacık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.210429,
+          37.651535
+        ]
+      },
+      "properties": {
+        "name": "Karakoç",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.545483,
+          37.652994
+        ]
+      },
+      "properties": {
+        "name": "Çiçek",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.791734,
+          37.663988
+        ]
+      },
+      "properties": {
+        "name": "Sugözü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.798054,
+          37.663302
+        ]
+      },
+      "properties": {
+        "name": "Yenikuşak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.494366,
+          37.667411
+        ]
+      },
+      "properties": {
+        "name": "Kösüklü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.571684,
+          37.663727
+        ]
+      },
+      "properties": {
+        "name": "Hacıyusuf",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.287962,
+          37.665591
+        ]
+      },
+      "properties": {
+        "name": "Tecir",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.713267,
+          37.67121
+        ]
+      },
+      "properties": {
+        "name": "Belenli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.52678,
+          37.673912
+        ]
+      },
+      "properties": {
+        "name": "Çaybaşı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.351273,
+          37.674861
+        ]
+      },
+      "properties": {
+        "name": "Dişbudak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.101521,
+          37.682202
+        ]
+      },
+      "properties": {
+        "name": "Börkenek",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.430166,
+          37.68416
+        ]
+      },
+      "properties": {
+        "name": "İncebağ",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.764224,
+          37.68469
+        ]
+      },
+      "properties": {
+        "name": "Eskitaş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.29679,
+          37.69142
+        ]
+      },
+      "properties": {
+        "name": "Büyük Kavaklı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.243135,
+          37.692725
+        ]
+      },
+      "properties": {
+        "name": "Güzelyurt",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.674627,
+          37.695106
+        ]
+      },
+      "properties": {
+        "name": "Güzelçay",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.624487,
+          37.696093
+        ]
+      },
+      "properties": {
+        "name": "Köseler",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.910411,
+          37.697908
+        ]
+      },
+      "properties": {
+        "name": "Harmanardı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.655045,
+          37.701004
+        ]
+      },
+      "properties": {
+        "name": "Karakuyu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.171396,
+          37.713008
+        ]
+      },
+      "properties": {
+        "name": "Yarmakaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.462305,
+          37.712613
+        ]
+      },
+      "properties": {
+        "name": "Sarıharman",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.951986,
+          37.716085
+        ]
+      },
+      "properties": {
+        "name": "Taşlıyazı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.868399,
+          37.716013
+        ]
+      },
+      "properties": {
+        "name": "Geldibuldu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.355572,
+          37.719971
+        ]
+      },
+      "properties": {
+        "name": "Kızılcapınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.781354,
+          37.720017
+        ]
+      },
+      "properties": {
+        "name": "Ulupınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.410426,
+          37.720696
+        ]
+      },
+      "properties": {
+        "name": "Karahöyük",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.604889,
+          37.809822
+        ]
+      },
+      "properties": {
+        "name": "Çataltepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.618235,
+          37.733058
+        ]
+      },
+      "properties": {
+        "name": "Mülk",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.702693,
+          37.74241
+        ]
+      },
+      "properties": {
+        "name": "Oluklu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.512807,
+          37.742276
+        ]
+      },
+      "properties": {
+        "name": "Arılı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.529188,
+          37.748153
+        ]
+      },
+      "properties": {
+        "name": "Bağlarbaşı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.142237,
+          37.747217
+        ]
+      },
+      "properties": {
+        "name": "Payamlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.841033,
+          37.751249
+        ]
+      },
+      "properties": {
+        "name": "Güneykaş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.087897,
+          37.751017
+        ]
+      },
+      "properties": {
+        "name": "Büklüm",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.594536,
+          37.756225
+        ]
+      },
+      "properties": {
+        "name": "Karaburun",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.977154,
+          37.762153
+        ]
+      },
+      "properties": {
+        "name": "Yaylımlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.942718,
+          37.766611
+        ]
+      },
+      "properties": {
+        "name": "Boyundere",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.179702,
+          37.766773
+        ]
+      },
+      "properties": {
+        "name": "Tekpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.580273,
+          37.767578
+        ]
+      },
+      "properties": {
+        "name": "Ortanca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.744303,
+          37.777407
+        ]
+      },
+      "properties": {
+        "name": "Göçeri",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.401218,
+          37.780882
+        ]
+      },
+      "properties": {
+        "name": "Gözebaşı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.47152,
+          37.78673
+        ]
+      },
+      "properties": {
+        "name": "Uzunpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.838254,
+          37.792818
+        ]
+      },
+      "properties": {
+        "name": "İkizce",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.976315,
+          37.800015
+        ]
+      },
+      "properties": {
+        "name": "Kaşlıca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.37001,
+          37.800959
+        ]
+      },
+      "properties": {
+        "name": "Çemberlitaş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.544041,
+          37.806712
+        ]
+      },
+      "properties": {
+        "name": "Savran",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.25086,
+          37.805645
+        ]
+      },
+      "properties": {
+        "name": "Zey",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.891961,
+          37.810694
+        ]
+      },
+      "properties": {
+        "name": "Bostanlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.682751,
+          37.819367
+        ]
+      },
+      "properties": {
+        "name": "Çardak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.816231,
+          37.82796
+        ]
+      },
+      "properties": {
+        "name": "Yaylacık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.68512,
+          37.823945
+        ]
+      },
+      "properties": {
+        "name": "Ozan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.625906,
+          37.828371
+        ]
+      },
+      "properties": {
+        "name": "Erikdere",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.767907,
+          37.830816
+        ]
+      },
+      "properties": {
+        "name": "Gökçe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.542858,
+          37.832015
+        ]
+      },
+      "properties": {
+        "name": "Yelkovan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.417101,
+          37.837289
+        ]
+      },
+      "properties": {
+        "name": "Girik",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.116224,
+          37.843544
+        ]
+      },
+      "properties": {
+        "name": "Çamyurdu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.343978,
+          37.858787
+        ]
+      },
+      "properties": {
+        "name": "Kuyucak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.659012,
+          37.858546
+        ]
+      },
+      "properties": {
+        "name": "Gölgeli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.567089,
+          37.859379
+        ]
+      },
+      "properties": {
+        "name": "Çukurtaş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.957968,
+          37.866744
+        ]
+      },
+      "properties": {
+        "name": "Beşgöze",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.841578,
+          37.869411
+        ]
+      },
+      "properties": {
+        "name": "Cankara",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.280652,
+          37.869065
+        ]
+      },
+      "properties": {
+        "name": "Rezip",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.649102,
+          37.874004
+        ]
+      },
+      "properties": {
+        "name": "Meydan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.915724,
+          37.874405
+        ]
+      },
+      "properties": {
+        "name": "Güzelsu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.807044,
+          37.875147
+        ]
+      },
+      "properties": {
+        "name": "Erikli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.16213,
+          37.876301
+        ]
+      },
+      "properties": {
+        "name": "Yazıbaşı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.759654,
+          37.877862
+        ]
+      },
+      "properties": {
+        "name": "Narince",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.705101,
+          37.880868
+        ]
+      },
+      "properties": {
+        "name": "Akdoğan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.869884,
+          37.882486
+        ]
+      },
+      "properties": {
+        "name": "Eceler",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.833334,
+          37.888546
+        ]
+      },
+      "properties": {
+        "name": "Kavaklı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.509898,
+          37.889205
+        ]
+      },
+      "properties": {
+        "name": "Boğazkaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.935878,
+          37.895007
+        ]
+      },
+      "properties": {
+        "name": "Gümüşkaşık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.114901,
+          37.89499
+        ]
+      },
+      "properties": {
+        "name": "Uzunköy",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.307613,
+          37.898238
+        ]
+      },
+      "properties": {
+        "name": "Varlık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.590265,
+          37.904953
+        ]
+      },
+      "properties": {
+        "name": "Doluca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.419284,
+          37.909638
+        ]
+      },
+      "properties": {
+        "name": "Kaşköy",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.653844,
+          37.910081
+        ]
+      },
+      "properties": {
+        "name": "Işıktepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.675506,
+          37.916508
+        ]
+      },
+      "properties": {
+        "name": "Hamzalar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.259451,
+          37.919852
+        ]
+      },
+      "properties": {
+        "name": "Koçali",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.985213,
+          37.922438
+        ]
+      },
+      "properties": {
+        "name": "Köklüce",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.786779,
+          37.924262
+        ]
+      },
+      "properties": {
+        "name": "Karadut",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.36011,
+          37.926065
+        ]
+      },
+      "properties": {
+        "name": "Yedioluk",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.455324,
+          37.929662
+        ]
+      },
+      "properties": {
+        "name": "Çakmaklar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.278764,
+          37.931028
+        ]
+      },
+      "properties": {
+        "name": "Bağlıca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.612122,
+          37.933216
+        ]
+      },
+      "properties": {
+        "name": "Burmapınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.651958,
+          37.945619
+        ]
+      },
+      "properties": {
+        "name": "Eskikahta",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.004457,
+          37.949475
+        ]
+      },
+      "properties": {
+        "name": "Oymaklı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.39909,
+          37.965341
+        ]
+      },
+      "properties": {
+        "name": "Yeşiltepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.026908,
+          37.967468
+        ]
+      },
+      "properties": {
+        "name": "Yağmurlu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.605205,
+          37.967231
+        ]
+      },
+      "properties": {
+        "name": "Çatbahçe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.521217,
+          37.968857
+        ]
+      },
+      "properties": {
+        "name": "Hasanlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.959831,
+          37.972406
+        ]
+      },
+      "properties": {
+        "name": "Kesertaş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.84565,
+          37.980523
+        ]
+      },
+      "properties": {
+        "name": "Gürgenli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.944724,
+          37.983146
+        ]
+      },
+      "properties": {
+        "name": "Açma",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.214543,
+          37.984572
+        ]
+      },
+      "properties": {
+        "name": "Mestan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.401991,
+          37.987279
+        ]
+      },
+      "properties": {
+        "name": "Yağızatlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.05157,
+          38.001972
+        ]
+      },
+      "properties": {
+        "name": "Üçkaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.410068,
+          38.007335
+        ]
+      },
+      "properties": {
+        "name": "İncirli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.855693,
+          38.011956
+        ]
+      },
+      "properties": {
+        "name": "Nakışlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.710058,
+          38.013652
+        ]
+      },
+      "properties": {
+        "name": "Subaşı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.90174,
+          38.022223
+        ]
+      },
+      "properties": {
+        "name": "Koşarlar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.073077,
+          38.033666
+        ]
+      },
+      "properties": {
+        "name": "Kaşyazı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.576315,
+          37.978914
+        ]
+      },
+      "properties": {
+        "name": "Fatih",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.935826,
+          38.033277
+        ]
+      },
+      "properties": {
+        "name": "Çamiçi",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.559699,
+          38.033642
+        ]
+      },
+      "properties": {
+        "name": "Alancık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.985364,
+          38.039606
+        ]
+      },
+      "properties": {
+        "name": "Aşağı Dağlıca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.400484,
+          38.043922
+        ]
+      },
+      "properties": {
+        "name": "Mutlu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.028015,
+          37.746236
+        ]
+      },
+      "properties": {
+        "name": "Yeşilyurt",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.341735,
+          38.045807
+        ]
+      },
+      "properties": {
+        "name": "Yeşilyayla",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.519984,
+          38.052455
+        ]
+      },
+      "properties": {
+        "name": "Yarpuzlu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.598285,
+          38.057353
+        ]
+      },
+      "properties": {
+        "name": "Sakız",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.486356,
+          38.062163
+        ]
+      },
+      "properties": {
+        "name": "Karaköse",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.234346,
+          38.067241
+        ]
+      },
+      "properties": {
+        "name": "Gölbağı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.28848,
+          38.081304
+        ]
+      },
+      "properties": {
+        "name": "Bozgedik",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.333503,
+          38.082162
+        ]
+      },
+      "properties": {
+        "name": "Şerefhan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.579055,
+          38.109127
+        ]
+      },
+      "properties": {
+        "name": "Arıkonak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.23636,
+          38.111114
+        ]
+      },
+      "properties": {
+        "name": "Çampınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.299425,
+          38.117887
+        ]
+      },
+      "properties": {
+        "name": "Kalecik",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.860737,
+          37.929486
+        ]
+      },
+      "properties": {
+        "name": "Çobanpınarı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.605944,
+          37.891542
+        ]
+      },
+      "properties": {
+        "name": "Teğmenli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.328342,
+          37.97928
+        ]
+      },
+      "properties": {
+        "name": "Aksu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.655242,
+          37.571622
+        ]
+      },
+      "properties": {
+        "name": "Pınarbaşı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.525728,
+          37.947396
+        ]
+      },
+      "properties": {
+        "name": "Çamdere",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.660081,
+          37.88623
+        ]
+      },
+      "properties": {
+        "name": "Koçtepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.290618,
+          37.842219
+        ]
+      },
+      "properties": {
+        "name": "Koruköy",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.810744,
+          37.959419
+        ]
+      },
+      "properties": {
+        "name": "Kütüklü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.946562,
+          37.847578
+        ]
+      },
+      "properties": {
+        "name": "Kılıç",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.696957,
+          37.662433
+        ]
+      },
+      "properties": {
+        "name": "Fıstıklı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.68545,
+          37.798728
+        ]
+      },
+      "properties": {
+        "name": "Hasandiğin",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.926745,
+          37.783847
+        ]
+      },
+      "properties": {
+        "name": "Adalı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.540793,
+          37.800925
+        ]
+      },
+      "properties": {
+        "name": "Çıralık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.53679,
+          37.723601
+        ]
+      },
+      "properties": {
+        "name": "Dut",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.20291,
+          37.598573
+        ]
+      },
+      "properties": {
+        "name": "Atakent",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.044756,
+          37.763315
+        ]
+      },
+      "properties": {
+        "name": "Köseli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.057013,
+          37.796708
+        ]
+      },
+      "properties": {
+        "name": "Tepecik",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.878924,
+          37.740186
+        ]
+      },
+      "properties": {
+        "name": "Aşağıçöplü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.80645,
+          37.799089
+        ]
+      },
+      "properties": {
+        "name": "Akçabel",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.929055,
+          37.64779
+        ]
+      },
+      "properties": {
+        "name": "Yelbastı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.877711,
+          37.775067
+        ]
+      },
+      "properties": {
+        "name": "Çiftlikköy",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.143503,
+          37.665233
+        ]
+      },
+      "properties": {
+        "name": "Doyran",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.529915,
+          37.791167
+        ]
+      },
+      "properties": {
+        "name": "Hacılar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.569963,
+          37.696956
+        ]
+      },
+      "properties": {
+        "name": "Çelikköy",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.723952,
+          37.677053
+        ]
+      },
+      "properties": {
+        "name": "Çaykaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.846978,
+          37.599289
+        ]
+      },
+      "properties": {
+        "name": "Çamuşçu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.117219,
+          37.654713
+        ]
+      },
+      "properties": {
+        "name": "Akhisar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.791965,
+          37.506918
+        ]
+      },
+      "properties": {
+        "name": "Alıçlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.828056,
+          37.51961
+        ]
+      },
+      "properties": {
+        "name": "Akkuyu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.698857,
+          37.750696
+        ]
+      },
+      "properties": {
+        "name": "Kuzevleri",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.692793,
+          37.79275
+        ]
+      },
+      "properties": {
+        "name": "Akçakaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.697562,
+          37.845651
+        ]
+      },
+      "properties": {
+        "name": "Aktoprak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.554036,
+          37.760883
+        ]
+      },
+      "properties": {
+        "name": "Balkar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.748027,
+          37.899308
+        ]
+      },
+      "properties": {
+        "name": "Karabahşılı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.639192,
+          37.747306
+        ]
+      },
+      "properties": {
+        "name": "Örenli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.671118,
+          37.775867
+        ]
+      },
+      "properties": {
+        "name": "Yarbaşı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.483655,
+          37.720983
+        ]
+      },
+      "properties": {
+        "name": "Yeşilova",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.708248,
+          37.765644
+        ]
+      },
+      "properties": {
+        "name": "Yukarı Çöplü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.653069,
+          37.647676
+        ]
+      },
+      "properties": {
+        "name": "Gedikli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.661765,
+          37.633422
+        ]
+      },
+      "properties": {
+        "name": "Aşağı Karakuyu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.457109,
+          37.645291
+        ]
+      },
+      "properties": {
+        "name": "Küçükören",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.611827,
+          37.653596
+        ]
+      },
+      "properties": {
+        "name": "Yukarı Nasırlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005609,
+          37.767152
+        ]
+      },
+      "properties": {
+        "name": "Öğütlü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.035803,
+          37.79801
+        ]
+      },
+      "properties": {
+        "name": "Yalankoz",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.070387,
+          37.777807
+        ]
+      },
+      "properties": {
+        "name": "Elçiler",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.981376,
+          37.775682
+        ]
+      },
+      "properties": {
+        "name": "Ünlüce",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.018781,
+          37.806003
+        ]
+      },
+      "properties": {
+        "name": "Akçatepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.915999,
+          37.766992
+        ]
+      },
+      "properties": {
+        "name": "Havutlu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.860956,
+          37.799783
+        ]
+      },
+      "properties": {
+        "name": "Meryemuşağı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.77421,
+          37.730116
+        ]
+      },
+      "properties": {
+        "name": "Beşkoz",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.800235,
+          37.640288
+        ]
+      },
+      "properties": {
+        "name": "Boncuk",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.814691,
+          37.581061
+        ]
+      },
+      "properties": {
+        "name": "Kargalı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.90911,
+          37.584841
+        ]
+      },
+      "properties": {
+        "name": "Yoldüzü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.770515,
+          37.517532
+        ]
+      },
+      "properties": {
+        "name": "Yukarı Söğütlü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.934868,
+          37.523696
+        ]
+      },
+      "properties": {
+        "name": "İzollu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.939875,
+          37.556498
+        ]
+      },
+      "properties": {
+        "name": "Aktepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.183026,
+          38.052398
+        ]
+      },
+      "properties": {
+        "name": "Geçitli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.024858,
+          37.583903
+        ]
+      },
+      "properties": {
+        "name": "Tokar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.044758,
+          37.501131
+        ]
+      },
+      "properties": {
+        "name": "Kızılkaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.105101,
+          37.516266
+        ]
+      },
+      "properties": {
+        "name": "Topkapı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.11485,
+          37.467535
+        ]
+      },
+      "properties": {
+        "name": "Ören",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.091732,
+          37.519384
+        ]
+      },
+      "properties": {
+        "name": "Dikilitaş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.069861,
+          37.587237
+        ]
+      },
+      "properties": {
+        "name": "Dörtyol",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.99388,
+          37.713158
+        ]
+      },
+      "properties": {
+        "name": "Atmalı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.072244,
+          37.634808
+        ]
+      },
+      "properties": {
+        "name": "Başlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.040961,
+          37.698618
+        ]
+      },
+      "properties": {
+        "name": "Doğankaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.081773,
+          37.650419
+        ]
+      },
+      "properties": {
+        "name": "Gümüşlü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.010107,
+          37.618665
+        ]
+      },
+      "properties": {
+        "name": "Alişar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.798866,
+          37.74881
+        ]
+      },
+      "properties": {
+        "name": "Burunçayır",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.973213,
+          37.722437
+        ]
+      },
+      "properties": {
+        "name": "Çamlıca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.874171,
+          37.716242
+        ]
+      },
+      "properties": {
+        "name": "Çilboğaz",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.734823,
+          37.635094
+        ]
+      },
+      "properties": {
+        "name": "Eğerli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.905877,
+          37.725852
+        ]
+      },
+      "properties": {
+        "name": "Kızılhisar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.783554,
+          37.727955
+        ]
+      },
+      "properties": {
+        "name": "Kızılpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.809116,
+          37.630986
+        ]
+      },
+      "properties": {
+        "name": "Toklu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.115248,
+          37.506625
+        ]
+      },
+      "properties": {
+        "name": "Bahri",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.71249,
+          37.586287
+        ]
+      },
+      "properties": {
+        "name": "Yayıklı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.958362,
+          37.515326
+        ]
+      },
+      "properties": {
+        "name": "Berete",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.756185,
+          37.679801
+        ]
+      },
+      "properties": {
+        "name": "Bereketli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.44437,
+          37.771021
+        ]
+      },
+      "properties": {
+        "name": "Hasancık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.206092,
+          37.822723
+        ]
+      },
+      "properties": {
+        "name": "Ahmethoca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.476484,
+          37.751917
+        ]
+      },
+      "properties": {
+        "name": "Alibey",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.379319,
+          37.755026
+        ]
+      },
+      "properties": {
+        "name": "Terman",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.20249,
+          37.74482
+        ]
+      },
+      "properties": {
+        "name": "Bağdere",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.115577,
+          37.737402
+        ]
+      },
+      "properties": {
+        "name": "Ağveren",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.465407,
+          37.683929
+        ]
+      },
+      "properties": {
+        "name": "Boztepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.233442,
+          37.736905
+        ]
+      },
+      "properties": {
+        "name": "Altınşehir",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.086099,
+          37.820683
+        ]
+      },
+      "properties": {
+        "name": "Yaylakonak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.452168,
+          37.687593
+        ]
+      },
+      "properties": {
+        "name": "Çayırlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.347208,
+          37.809014
+        ]
+      },
+      "properties": {
+        "name": "Toptepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.052054,
+          37.81809
+        ]
+      },
+      "properties": {
+        "name": "Damdırmaz",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.769545,
+          37.668657
+        ]
+      },
+      "properties": {
+        "name": "Dardağan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.083302,
+          37.734763
+        ]
+      },
+      "properties": {
+        "name": "Davuthan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.168399,
+          37.788766
+        ]
+      },
+      "properties": {
+        "name": "Durukaynak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.349165,
+          37.688489
+        ]
+      },
+      "properties": {
+        "name": "Eskihüsnümansur",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.398769,
+          37.679169
+        ]
+      },
+      "properties": {
+        "name": "Gölpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.12442,
+          37.776419
+        ]
+      },
+      "properties": {
+        "name": "Güneşli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2237,
+          37.705243
+        ]
+      },
+      "properties": {
+        "name": "Hasankendi",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.430577,
+          37.76942
+        ]
+      },
+      "properties": {
+        "name": "İnceler",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.261297,
+          37.830309
+        ]
+      },
+      "properties": {
+        "name": "Albet",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.336983,
+          37.761616
+        ]
+      },
+      "properties": {
+        "name": "Ziyaretpayamlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.44141,
+          37.802661
+        ]
+      },
+      "properties": {
+        "name": "Serhatlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.415664,
+          37.811967
+        ]
+      },
+      "properties": {
+        "name": "Düzce",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.168399,
+          37.789209
+        ]
+      },
+      "properties": {
+        "name": "Çınarik",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.200397,
+          37.765416
+        ]
+      },
+      "properties": {
+        "name": "Ataköy",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.216495,
+          37.461372
+        ]
+      },
+      "properties": {
+        "name": "Akdere",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.186353,
+          37.623135
+        ]
+      },
+      "properties": {
+        "name": "Battalhüyük",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.813188,
+          37.842746
+        ]
+      },
+      "properties": {
+        "name": "Ekinci",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.167736,
+          37.68458
+        ]
+      },
+      "properties": {
+        "name": "Kızılcahöyük",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.167755,
+          37.55501
+        ]
+      },
+      "properties": {
+        "name": "Uğurca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.111929,
+          37.641866
+        ]
+      },
+      "properties": {
+        "name": "Yayladamı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.135528,
+          37.674824
+        ]
+      },
+      "properties": {
+        "name": "Çamgazi",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.392282,
+          37.873733
+        ]
+      },
+      "properties": {
+        "name": "Derinsu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.319065,
+          37.871712
+        ]
+      },
+      "properties": {
+        "name": "Esence",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.380578,
+          37.826864
+        ]
+      },
+      "properties": {
+        "name": "Kemerkaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.38281,
+          37.910272
+        ]
+      },
+      "properties": {
+        "name": "Kozan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.356968,
+          37.830593
+        ]
+      },
+      "properties": {
+        "name": "Olgunlar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.31338,
+          37.828324
+        ]
+      },
+      "properties": {
+        "name": "Palanlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.463257,
+          37.892977
+        ]
+      },
+      "properties": {
+        "name": "Pınaryayla",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.412456,
+          37.917905
+        ]
+      },
+      "properties": {
+        "name": "Kayadibi",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.36668,
+          37.749503
+        ]
+      },
+      "properties": {
+        "name": "İpekli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.11848,
+          37.828327
+        ]
+      },
+      "properties": {
+        "name": "Karaağaç",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.415023,
+          38.072085
+        ]
+      },
+      "properties": {
+        "name": "Karagöl",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.100806,
+          37.702978
+        ]
+      },
+      "properties": {
+        "name": "Kayacık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.194683,
+          37.800998
+        ]
+      },
+      "properties": {
+        "name": "Kayaönü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.134387,
+          37.757693
+        ]
+      },
+      "properties": {
+        "name": "Kındırali",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.400089,
+          37.527015
+        ]
+      },
+      "properties": {
+        "name": "Kuştepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.323346,
+          37.700317
+        ]
+      },
+      "properties": {
+        "name": "Lokman",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.207236,
+          37.66366
+        ]
+      },
+      "properties": {
+        "name": "Paşamezrası",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.085257,
+          37.800955
+        ]
+      },
+      "properties": {
+        "name": "Şerefli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.812152,
+          37.793395
+        ]
+      },
+      "properties": {
+        "name": "Yenice",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.45802,
+          37.760496
+        ]
+      },
+      "properties": {
+        "name": "Uludam",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.330211,
+          37.80311
+        ]
+      },
+      "properties": {
+        "name": "Yenigüven",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.148926,
+          37.523201
+        ]
+      },
+      "properties": {
+        "name": "Üçdirek",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.120206,
+          37.589737
+        ]
+      },
+      "properties": {
+        "name": "Kayalı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.386724,
+          37.648472
+        ]
+      },
+      "properties": {
+        "name": "Çaylı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.289001,
+          37.605807
+        ]
+      },
+      "properties": {
+        "name": "Çençeng",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.197838,
+          37.844505
+        ]
+      },
+      "properties": {
+        "name": "Akçalı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.288131,
+          37.933984
+        ]
+      },
+      "properties": {
+        "name": "Gökçay",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.136178,
+          37.808425
+        ]
+      },
+      "properties": {
+        "name": "Kuşakkaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.153588,
+          37.825983
+        ]
+      },
+      "properties": {
+        "name": "Büyük Kırıklı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.327965,
+          37.917066
+        ]
+      },
+      "properties": {
+        "name": "Ağaçkonak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.399849,
+          37.735713
+        ]
+      },
+      "properties": {
+        "name": "100.Yıl",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.235786,
+          37.446557
+        ]
+      },
+      "properties": {
+        "name": "Işıklı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.130657,
+          37.742193
+        ]
+      },
+      "properties": {
+        "name": "Başpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.183587,
+          37.467783
+        ]
+      },
+      "properties": {
+        "name": "Ağcin",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.393339,
+          37.833739
+        ]
+      },
+      "properties": {
+        "name": "Kalburcu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.432284,
+          37.937472
+        ]
+      },
+      "properties": {
+        "name": "Bozatlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.294679,
+          37.881093
+        ]
+      },
+      "properties": {
+        "name": "Şemikan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.317191,
+          37.854638
+        ]
+      },
+      "properties": {
+        "name": "Ağikan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.628133,
+          38.026618
+        ]
+      },
+      "properties": {
+        "name": "Karaman",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.269389,
+          38.109798
+        ]
+      },
+      "properties": {
+        "name": "Altıntaş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.377863,
+          38.059016
+        ]
+      },
+      "properties": {
+        "name": "Korucak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.291743,
+          38.056843
+        ]
+      },
+      "properties": {
+        "name": "Köseuşağı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.430995,
+          38.04551
+        ]
+      },
+      "properties": {
+        "name": "Askerhan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1943,
+          37.974877
+        ]
+      },
+      "properties": {
+        "name": "Kavak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.370824,
+          37.981159
+        ]
+      },
+      "properties": {
+        "name": "Recep",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.584123,
+          38.062579
+        ]
+      },
+      "properties": {
+        "name": "Balkaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.690822,
+          38.037855
+        ]
+      },
+      "properties": {
+        "name": "Çat",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.511557,
+          38.029334
+        ]
+      },
+      "properties": {
+        "name": "Dilektepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.538513,
+          38.033596
+        ]
+      },
+      "properties": {
+        "name": "Eskiköy",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.446322,
+          38.050442
+        ]
+      },
+      "properties": {
+        "name": "Uğurlu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.547062,
+          38.058875
+        ]
+      },
+      "properties": {
+        "name": "Narlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6084,
+          38.049396
+        ]
+      },
+      "properties": {
+        "name": "Serince",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.620305,
+          37.965967
+        ]
+      },
+      "properties": {
+        "name": "Söğütlübahçe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.468575,
+          38.053891
+        ]
+      },
+      "properties": {
+        "name": "Şahinbeyler",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.677943,
+          38.010422
+        ]
+      },
+      "properties": {
+        "name": "Şahkulu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.719464,
+          38.033604
+        ]
+      },
+      "properties": {
+        "name": "Taşkale",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.590762,
+          37.632034
+        ]
+      },
+      "properties": {
+        "name": "Belören",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.654953,
+          37.666386
+        ]
+      },
+      "properties": {
+        "name": "Boztarla",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.559451,
+          37.696981
+        ]
+      },
+      "properties": {
+        "name": "Büyükbey",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.519464,
+          37.861992
+        ]
+      },
+      "properties": {
+        "name": "Çaltılı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.886939,
+          37.778236
+        ]
+      },
+      "properties": {
+        "name": "Akalın",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.834233,
+          37.722085
+        ]
+      },
+      "properties": {
+        "name": "Aktaş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.872614,
+          37.776142
+        ]
+      },
+      "properties": {
+        "name": "Beşikli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7527,
+          37.734073
+        ]
+      },
+      "properties": {
+        "name": "Güdülge",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.770643,
+          37.75116
+        ]
+      },
+      "properties": {
+        "name": "Elbeyi",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.798098,
+          37.758255
+        ]
+      },
+      "properties": {
+        "name": "Tuğlu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.557055,
+          38.004283
+        ]
+      },
+      "properties": {
+        "name": "Cumhuriyet",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.643883,
+          37.868664
+        ]
+      },
+      "properties": {
+        "name": "Esendere",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.686968,
+          37.918431
+        ]
+      },
+      "properties": {
+        "name": "Sırakaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.632109,
+          37.894116
+        ]
+      },
+      "properties": {
+        "name": "Yolaltı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.599792,
+          37.869184
+        ]
+      },
+      "properties": {
+        "name": "Bağözü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.702028,
+          37.836077
+        ]
+      },
+      "properties": {
+        "name": "Akkavak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.897995,
+          37.914058
+        ]
+      },
+      "properties": {
+        "name": "Alidam",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.766217,
+          37.896267
+        ]
+      },
+      "properties": {
+        "name": "Aydınpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.733522,
+          37.894776
+        ]
+      },
+      "properties": {
+        "name": "Bağbaşı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.889503,
+          37.874236
+        ]
+      },
+      "properties": {
+        "name": "Ballı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.84344,
+          37.859097
+        ]
+      },
+      "properties": {
+        "name": "Bozpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.711364,
+          37.814681
+        ]
+      },
+      "properties": {
+        "name": "Büyükbağ",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.859357,
+          37.90396
+        ]
+      },
+      "properties": {
+        "name": "Dumlu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.75568,
+          37.837232
+        ]
+      },
+      "properties": {
+        "name": "Sıraca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.555606,
+          37.765152
+        ]
+      },
+      "properties": {
+        "name": "Habipler",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.551288,
+          37.694394
+        ]
+      },
+      "properties": {
+        "name": "İslamköy",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.646512,
+          37.700314
+        ]
+      },
+      "properties": {
+        "name": "Karacaören",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.550963,
+          37.903928
+        ]
+      },
+      "properties": {
+        "name": "Kozağaç",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.588889,
+          37.704651
+        ]
+      },
+      "properties": {
+        "name": "Narsırtı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.574012,
+          37.824496
+        ]
+      },
+      "properties": {
+        "name": "Salkımbağı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.502593,
+          37.704697
+        ]
+      },
+      "properties": {
+        "name": "Sarısu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.616352,
+          37.718743
+        ]
+      },
+      "properties": {
+        "name": "Şahintepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.463754,
+          37.968464
+        ]
+      },
+      "properties": {
+        "name": "Taşlıca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.540466,
+          37.768086
+        ]
+      },
+      "properties": {
+        "name": "Zeytin",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.593337,
+          37.73856
+        ]
+      },
+      "properties": {
+        "name": "Ziyaret",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.668727,
+          37.648669
+        ]
+      },
+      "properties": {
+        "name": "Susuz",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.686966,
+          37.879174
+        ]
+      },
+      "properties": {
+        "name": "Tütenocak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.822632,
+          37.830795
+        ]
+      },
+      "properties": {
+        "name": "Yapraklı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.709733,
+          37.866222
+        ]
+      },
+      "properties": {
+        "name": "Akkuş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.645303,
+          37.896466
+        ]
+      },
+      "properties": {
+        "name": "Damlacık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.735807,
+          37.854629
+        ]
+      },
+      "properties": {
+        "name": "Narlıdere",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.895959,
+          37.849787
+        ]
+      },
+      "properties": {
+        "name": "Teknecik",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.61828,
+          37.672942
+        ]
+      },
+      "properties": {
+        "name": "Şenköy",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.861127,
+          37.822146
+        ]
+      },
+      "properties": {
+        "name": "Akyıldız",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81971,
+          37.653118
+        ]
+      },
+      "properties": {
+        "name": "Karataş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.835155,
+          37.652503
+        ]
+      },
+      "properties": {
+        "name": "Dikenli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.720729,
+          37.709462
+        ]
+      },
+      "properties": {
+        "name": "Yeşilkaya",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.735937,
+          37.6385
+        ]
+      },
+      "properties": {
+        "name": "Büyükbejyan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.770643,
+          37.750717
+        ]
+      },
+      "properties": {
+        "name": "Taşlıçay",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.648163,
+          37.736393
+        ]
+      },
+      "properties": {
+        "name": "Turanlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.022713,
+          37.950138
+        ]
+      },
+      "properties": {
+        "name": "Beybostan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.006747,
+          37.998074
+        ]
+      },
+      "properties": {
+        "name": "Budaklı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.948111,
+          38.027655
+        ]
+      },
+      "properties": {
+        "name": "Burçaklı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.909656,
+          37.975504
+        ]
+      },
+      "properties": {
+        "name": "Çifthisar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.966891,
+          38.003851
+        ]
+      },
+      "properties": {
+        "name": "Dağdeviren",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.048777,
+          38.042643
+        ]
+      },
+      "properties": {
+        "name": "Eskikent",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.118061,
+          38.032989
+        ]
+      },
+      "properties": {
+        "name": "Gönen",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.155096,
+          38.052547
+        ]
+      },
+      "properties": {
+        "name": "Gözpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.895755,
+          37.960804
+        ]
+      },
+      "properties": {
+        "name": "Gündoğdu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.149488,
+          38.092342
+        ]
+      },
+      "properties": {
+        "name": "Onevler",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.833104,
+          37.975829
+        ]
+      },
+      "properties": {
+        "name": "Güngörmüş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.966618,
+          37.878509
+        ]
+      },
+      "properties": {
+        "name": "Korulu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.887401,
+          38.01952
+        ]
+      },
+      "properties": {
+        "name": "Ağaçlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.963609,
+          37.937571
+        ]
+      },
+      "properties": {
+        "name": "Seyit Mahmut",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.799679,
+          37.940273
+        ]
+      },
+      "properties": {
+        "name": "Sutepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.914724,
+          37.955401
+        ]
+      },
+      "properties": {
+        "name": "Yayladalı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.108863,
+          38.094006
+        ]
+      },
+      "properties": {
+        "name": "Dallarca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.069696,
+          38.117758
+        ]
+      },
+      "properties": {
+        "name": "Demirtaş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.40753,
+          38.039912
+        ]
+      },
+      "properties": {
+        "name": "Karaçayır",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.459526,
+          38.053867
+        ]
+      },
+      "properties": {
+        "name": "Hüseyinli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.89672,
+          38.027649
+        ]
+      },
+      "properties": {
+        "name": "Saraycık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.463332,
+          37.630205
+        ]
+      },
+      "properties": {
+        "name": "Doğanca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.500827,
+          37.615627
+        ]
+      },
+      "properties": {
+        "name": "Taşkuyu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.39321,
+          37.560423
+        ]
+      },
+      "properties": {
+        "name": "Bağarası",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.153355,
+          37.507254
+        ]
+      },
+      "properties": {
+        "name": "Malpınarı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.256905,
+          37.459397
+        ]
+      },
+      "properties": {
+        "name": "Damlıca",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.438762,
+          37.765543
+        ]
+      },
+      "properties": {
+        "name": "Küçük Hasancık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.305727,
+          37.960501
+        ]
+      },
+      "properties": {
+        "name": "Doğanlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.815864,
+          37.71703
+        ]
+      },
+      "properties": {
+        "name": "Oyalı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.893213,
+          37.840292
+        ]
+      },
+      "properties": {
+        "name": "Bulanık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.052435,
+          37.854203
+        ]
+      },
+      "properties": {
+        "name": "Zivar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.170473,
+          38.002375
+        ]
+      },
+      "properties": {
+        "name": "İnönü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.746703,
+          37.812777
+        ]
+      },
+      "properties": {
+        "name": "Çakmak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.761629,
+          37.815503
+        ]
+      },
+      "properties": {
+        "name": "Kalemkaş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.91067,
+          37.785261
+        ]
+      },
+      "properties": {
+        "name": "Salah",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8641,
+          37.700726
+        ]
+      },
+      "properties": {
+        "name": "BESNİ",
+        "type": "ilce_merkezi",
+        "type_tr": "İlçe Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.851482,
+          37.689679
+        ]
+      },
+      "properties": {
+        "name": "Hasan Tütün",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.868115,
+          37.508032
+        ]
+      },
+      "properties": {
+        "name": "Boybeypınarı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.91,
+          37.55714
+        ]
+      },
+      "properties": {
+        "name": "Levzin",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.891116,
+          37.545515
+        ]
+      },
+      "properties": {
+        "name": "Abımıstık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.040989,
+          37.845329
+        ]
+      },
+      "properties": {
+        "name": "İncekoz",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.750488,
+          37.54652
+        ]
+      },
+      "properties": {
+        "name": "Tetirli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.783079,
+          37.549389
+        ]
+      },
+      "properties": {
+        "name": "Aşağı Söğütlü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.832002,
+          37.685874
+        ]
+      },
+      "properties": {
+        "name": "15 Temmuz",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.87554,
+          37.674867
+        ]
+      },
+      "properties": {
+        "name": "Ali Erdemoğlu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.29751,
+          37.735409
+        ]
+      },
+      "properties": {
+        "name": "Bahçecik",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.215053,
+          37.785729
+        ]
+      },
+      "properties": {
+        "name": "Petrol",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.245115,
+          37.781357
+        ]
+      },
+      "properties": {
+        "name": "Esentepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.245115,
+          37.781797
+        ]
+      },
+      "properties": {
+        "name": "Adıyaman Merkez",
+        "type": "ilce_merkezi",
+        "type_tr": "İlçe Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.062651,
+          37.836501
+        ]
+      },
+      "properties": {
+        "name": "Çimenke",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.427019,
+          37.849996
+        ]
+      },
+      "properties": {
+        "name": "Gazi",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.152963,
+          38.03751
+        ]
+      },
+      "properties": {
+        "name": "Çamlıyayla",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.615617,
+          38.005182
+        ]
+      },
+      "properties": {
+        "name": "Ayengin",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.502892,
+          38.012374
+        ]
+      },
+      "properties": {
+        "name": "Zeynelaslan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.649307,
+          38.02398
+        ]
+      },
+      "properties": {
+        "name": "Mahmutoğlu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.460255,
+          38.001302
+        ]
+      },
+      "properties": {
+        "name": "Fırat",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.456956,
+          37.978475
+        ]
+      },
+      "properties": {
+        "name": "Çınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.474475,
+          37.974027
+        ]
+      },
+      "properties": {
+        "name": "Tuna",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.594993,
+          37.770822
+        ]
+      },
+      "properties": {
+        "name": "Bağlar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.596931,
+          37.797823
+        ]
+      },
+      "properties": {
+        "name": "Çobanlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.621551,
+          37.758443
+        ]
+      },
+      "properties": {
+        "name": "Şeyhbaba",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.488191,
+          37.838378
+        ]
+      },
+      "properties": {
+        "name": "Kangölü",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81351,
+          37.728632
+        ]
+      },
+      "properties": {
+        "name": "Kılavuz",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.848674,
+          37.778445
+        ]
+      },
+      "properties": {
+        "name": "Soğuksu",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.471248,
+          37.963885
+        ]
+      },
+      "properties": {
+        "name": "Çukan",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.614122,
+          38.030202
+        ]
+      },
+      "properties": {
+        "name": "Onur",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.479053,
+          37.588087
+        ]
+      },
+      "properties": {
+        "name": "Örentaş",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.445825,
+          37.85446
+        ]
+      },
+      "properties": {
+        "name": "Yakacık",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.438446,
+          37.870325
+        ]
+      },
+      "properties": {
+        "name": "Serintepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.436546,
+          37.847881
+        ]
+      },
+      "properties": {
+        "name": "Kömür",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.085107,
+          37.886979
+        ]
+      },
+      "properties": {
+        "name": "Çatderesi",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.05448,
+          37.677756
+        ]
+      },
+      "properties": {
+        "name": "Bayat",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.453585,
+          37.972128
+        ]
+      },
+      "properties": {
+        "name": "Karadağ",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.125318,
+          37.428559
+        ]
+      },
+      "properties": {
+        "name": "Kızılin",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.884154,
+          37.482498
+        ]
+      },
+      "properties": {
+        "name": "Akdurak",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.56991,
+          37.731259
+        ]
+      },
+      "properties": {
+        "name": "Aşağı Azaplı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.822125,
+          37.761109
+        ]
+      },
+      "properties": {
+        "name": "Akıncılar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.74407,
+          37.835999
+        ]
+      },
+      "properties": {
+        "name": "Harmanlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.427506,
+          37.862057
+        ]
+      },
+      "properties": {
+        "name": "Bahçelievler",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.477257,
+          37.875411
+        ]
+      },
+      "properties": {
+        "name": "Bölükyayla",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.433165,
+          37.98189
+        ]
+      },
+      "properties": {
+        "name": "İnlice",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.046123,
+          37.683224
+        ]
+      },
+      "properties": {
+        "name": "Şambayat",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.634664,
+          37.538475
+        ]
+      },
+      "properties": {
+        "name": "Suvarlı",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.843077,
+          37.544688
+        ]
+      },
+      "properties": {
+        "name": "Kesmetepe",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.73245,
+          37.557088
+        ]
+      },
+      "properties": {
+        "name": "Köseceli",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.857461,
+          37.560328
+        ]
+      },
+      "properties": {
+        "name": "Çakırhüyük",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.298371,
+          37.673083
+        ]
+      },
+      "properties": {
+        "name": "Taşpınar",
+        "type": "mahalle_merkezi",
+        "type_tr": "Mahalle/Köy Merkezi"
+      }
+    }
+  ]
+}
